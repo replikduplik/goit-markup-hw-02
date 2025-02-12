@@ -5,7 +5,14 @@ body {
 	line-height: 1.5;
 	background-color: #ffffff;
 }
-
+h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-align: center;
+}
 h3 {
   font-weight: 500;
   font-size: 20px;
