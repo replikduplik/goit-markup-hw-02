@@ -50,3 +50,23 @@ body {
   line-height: 24px;
   letter-spacing: 0.02em;
 }
+.menu-info:hover,
+.menu-info:focus {
+  color: #404bbf;
+}
+
+.menu:active {
+    text-decoration: underline;
+    text-decoration-color: #404BBF;
+    color:#404BBF;
+}
+
+.hero {
+  background-color: #2E2F42;
+  text-align: center;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 0.02em;
+  color:#ffffff;
+}
