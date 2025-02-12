@@ -70,3 +70,23 @@ body {
   letter-spacing: 0.02em;
   color:#ffffff;
 }
+
+.hero-button {
+  background: #4D5AE5;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+.hero-button:hover,
+.hero-button:focus {   
+  background: #404BBF;
+}
+
+.hero-button:active {
+  background: #2E2F42;
+}
