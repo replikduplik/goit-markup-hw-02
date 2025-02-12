@@ -112,3 +112,7 @@ h3>p {
 .hero-button:active {
   background: #2E2F42;
 }
+
+.team-title {
+  text-align: center;
+}
