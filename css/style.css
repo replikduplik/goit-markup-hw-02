@@ -1,3 +1,5 @@
+/* body */
+
 body {
 	font-family: 'Roboto' sans-serif;
 	color: #434455;
@@ -35,7 +37,11 @@ h3>p {
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #434455;
+
 }
+
+/* header */
+
 #header {
 	border: 1px solid #e7e9fc;
 }
@@ -96,6 +102,8 @@ h3>p {
     color:#404BBF;
 }
 
+/* hero-section-1 */
+
 .hero {
   background-color: #2E2F42;
   text-align: center;
@@ -126,6 +134,13 @@ h3>p {
   background: #2E2F42;
 }
 
+/* features-section-2 */
+.features-text {
+  letter-spacing: 0.002em;
+}
+
+/* our team-section-3 */
+
 .team-title {
   text-align: center;
 }
@@ -133,3 +148,20 @@ h3>p {
 .our-team {
  background-color: #F4F4FD;
 }
+.our-team-title {
+  line-height: 1.11;
+  text-transform: capitalize;
+}
+
+.team-member {
+  background-color: #ffffff;
+}
+
+.team-member-name {
+ 
+}
+
+.team-title {
+  letter-spacing: 0.02em;
+}
+
