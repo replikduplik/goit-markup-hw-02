@@ -183,6 +183,7 @@ p {
 
 footer {
 	font-family: 'Raleway', sans-serif;
+  background-color: #2e2f42;
 	letter-spacing: 17.33;
 }
 
@@ -202,5 +203,5 @@ footer {
 	text-transform: uppercase;
 }
 .footer-logo-studio {
-	color: #2e2f42;
+	color: #F4F4FD;
 }
